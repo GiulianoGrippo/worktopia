@@ -1,0 +1,16 @@
+{
+    "name": "giulianogrippo/workopia",
+    "description" : "Job Listing App",
+    "authors": [
+        {
+            "name" : "Giuliano",
+            "email": "info@giulianogrippo.it"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
